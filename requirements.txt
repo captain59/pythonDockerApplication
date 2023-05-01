@@ -1,4 +1,4 @@
 minio==5.0.10
 urllib3==1.26.5
-Flask==1.1.2
+Flask==2.3.2
 markdown==2.6.11
